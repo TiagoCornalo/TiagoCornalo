@@ -6,9 +6,6 @@
 ### <div align="center">I'm Tiago, a Software Engineer from Argentina</div>  
   
 
-- 🔭 I’m currently working on Todo Noticias as Arc Xp Developer 
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
